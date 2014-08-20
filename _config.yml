@@ -1,0 +1,16 @@
+# Site settings
+title: Gone
+email: willem@wetim.net
+url: "https://w5l.github.io"
+github_username: w5l
+author: "Willem Engel"
+
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:day/:title
+highlighter: rouge
+
+defaults:
+  -
+    values:
+      layout: "page"

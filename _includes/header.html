@@ -1,0 +1,23 @@
+<div id="topwrapper">
+	<header>
+		<a href='/' class='inconspicuous'>
+			<div class='main-header main-colunm'>
+				<h1>{{ site.title }}</h1>
+			</div>
+		</a>
+	</header>
+
+	<nav id='nav' role='navigation'>
+		<div class='main-menu'>
+			<h1 style='display: none;'>{{ site.title }}</h1>
+			<ul>
+			{% assign sorted_pages = site.pages | sort: 'order' %}
+			{% for node in sorted_pages %}
+        {% if node.title and node.order %}
+				<li class="{% if page.url == node.url %}active{% endif %}"><a class="page-link" href="{{ node.url | prepend: node.baseurl }}">{{ node.title }}</a></li>
+			  {% endif %}
+			{% endfor %}
+			</ul>
+		</div>
+	</nav>
+</div>
