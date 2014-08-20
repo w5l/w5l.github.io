@@ -1,0 +1,16 @@
+# Site settings
+title: Gone
+email: willem@quadspeed.com
+url: "https://willemduncan.github.io"
+github_username: willemduncan
+author: "Willem Engel"
+
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:day/:title
+highlighter: rouge
+
+defaults:
+  -
+    values:
+      layout: "page"
