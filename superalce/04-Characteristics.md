@@ -117,7 +117,7 @@ Gradients that can be overcome with a load of 2 persons, with various gear ratio
 
 in 1st gear:|max 50 % at approximately 13.2 km/h.  
 in 2nd gear:|max 30 % at approximately 23.6 km/h.  
-in 3rd gear:|max 13.9 % at approximately 44 m/h.  
+in 3rd gear:|max 13.9 % at approximately 44 km/h.  
 in 4th gear:|max 5.5 % at approximately 67 km/h.  
 
 Autonomy on roads in good maintenance conditions in hilly areas: approximately 230 kilometers.
@@ -127,4 +127,4 @@ Maximum speed in any gear:
 in 1st gear:|22.7 km/h.  
 in 2nd gear:|40.5 km/h.  
 in 3rd gear:|75.7 km/h.  
-in 4th gear with one person:|approximately 110km/h.
+in 4th gear with one person:|approximately 110 km/h.
