@@ -2,16 +2,16 @@
 - Tool bag
 - American type screwdriver reinforced
 - Electricians screwdriver
-- Adjustable wrench 145mm
+- Adjustable wrench 145 mm
 - Tire lever disassembly (3 pieces)
 - Lima half round 4"
 - Hammer French type 150gr
 - Oiler dish Ø 70 mm tank round
 - Washing brush of No. 12
-- Pliers. 160mm
+- Pliers. 160 mm
 - Punch to punch right
 - Wire roll 0.6 mm. mt. 3
-- Roll tape 13mm length 5m
+- Roll tape 13 mm length 5m
 - Spark plug brush
 - Box repair inner tubes
 
@@ -19,15 +19,15 @@
 - Joining shackle for chains
 - Offset link for chain 5/8 "x 1/4"
 - Mesh lever clamp chain
-- Pipe key 10-14mm (For Engine - generator - toolboxes - footrests - fender)
+- Pipe key 10-14 mm (For Engine - generator - toolboxes - footrests - fender)
 - Ø 7x120 plug for socket wrench
-- Wrench 17-19mm (For Engine from the frame and foot platforms)
-- Wrench 22-26mm (For Light - rear wheel - Frame and suspension)
+- Wrench 17-19 mm (For Engine from the frame and foot platforms)
+- Wrench 22-26 mm (For Light - rear wheel - Frame and suspension)
 - Lever Ø 11 x 175 for socket wrench
 - Feeler gauge to set the valve clearance
-- End wrench mm. 11-14mm (For Seats - chain tensioner - rear shock absorbers - exhaust pipe - valves - trains and clutch)
-- End wrench mm. 15-16mm (For Oil and gas pipelines)
-- Spanner simple to 29mm (For Front and rear wheel)
+- End wrench mm. 11-14 mm (For Seats - chain tensioner - rear shock absorbers - exhaust pipe - valves - trains and clutch)
+- End wrench mm. 15-16 mm (For Oil and gas pipelines)
+- Spanner simple to 29 mm (For Front and rear wheel)
 - Tecalamit grease pump
 - Flexible coupling for pump
 - Spark plug

@@ -20,22 +20,22 @@ cylinder, where gravity createas drops to lubricate the bottom.
 
 For engine lubrication is recommended to use the following oil:
 
-Below 10°:|Shell X-100 SAE 30;
-Above 10°:|Shell X-100 SAE 40.
+Below 10° | Shell X-100 SAE 30;
+Above 10° | Shell X-100 SAE 40.
 
 After covering the first 500 km it is necessary to completely empty the oil tank and replaced it 
 with fresh oil: Afterwards renewing the oil approximately every 2000 km. This must be carried out 
 when the engine is hot. Remove the filter from the tank by removing the perforated pipe fixing bolt 
 and the nut which holds the filters (**Fig. 4**).
 
-![Fig. 4](04.png) 
+![Fig. 4](04.jpg) 
 *Fig. 4*
 
 Remove them from each other by unscrewing the nut that holds the internal small filter to the 
-outside (**Fig. 4a**) and clean them thoroughly.
+outside (**Fig. 4b**) and clean them thoroughly.
 
-![Fig. 4a](04a.png) 
-*Fig. 4a*
+![Fig. 4b](04b.jpg) 
+*Fig. 4b*
 
 It is advisable to clean all pipes; Take extreme care in reassembling them in order to avoid oil 
 leakage or air leaks which could cause bad operation of the pump, causing serious damage to the engine.

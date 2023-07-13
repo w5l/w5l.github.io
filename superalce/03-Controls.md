@@ -1,17 +1,15 @@
-<div class="manual-float-left">
-  <img src="03.png" alt="Fig. 3" />
-  <em>Fig. 3 - Controls and Accesoires</em>
-</div>
+![Fig. 3](03.jpg) 
+*Fig. 3 - Controls and Accesoires*
 
-1. Key for the electrical system and light switch
-2. Wing nuts for adjusting front shocks
-3. Clutch lever
-4. Valve lift (decompression) lever
-5. Switch for high/low beam control and horn button
-6. Sidestand
-7. Rear brake pedal
-8. Front brake lever
-9. Air control lever
+01. Key for the electrical system and light switch
+02. Wing nuts for adjusting front shocks
+03. Clutch lever
+04. Valve lift (decompression) lever
+05. Switch for high/low beam control and horn button
+06. Sidestand
+07. Rear brake pedal
+08. Front brake lever
+09. Air control lever
 10. Throttle control
 11. Steering friction adjuster
 12. Gear lever

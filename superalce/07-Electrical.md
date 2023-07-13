@@ -11,7 +11,7 @@ In order to access the battery do the following: Remove the plate with the rear 
 bolts, turn over the saddle and unscrew the bolt holding the battery clamp.
 For the maintenance and preservation, the recommended standards are: periodically checking the acid 
 level and if necessary add distilled water so that the upper edge of the plates are submerged by 
-about 5mm. This should be performed more frequently in summer months (every 30 days), while in the 
+about 5 mm. This should be performed more frequently in summer months (every 30 days), while in the 
 winter months it can be done less often.  
 It is advisable to keep dry and clean the terminals and the top of the battery cells. It is useful 
 to grease the threaded part of the terminals with vaseline.
@@ -37,10 +37,10 @@ The focus is fixed; the focus is set by the bulb filament.
 
 Use bulbs of equal size and power of those mounted.
 
-Front light:   | Double beam head light bulb   | 6 V - 25/25 W 
+Front light    | Double beam head light bulb   | 6 V - 25/25 W 
                | City torpedo light bulb       | 6 V - 5 W
                | Charge indicator torpedo bulb | 6 V - 1.5 W
-For tail light:| Torpedo bulb                  | 6 V - 3 W.
+For tail light | Torpedo bulb                  | 6 V - 3 W.
 
 ### Claxon button and high beam switch
 

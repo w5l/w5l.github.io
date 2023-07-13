@@ -1,10 +1,10 @@
 ### Carburetor
 
 Around every 5000 km it is appropriate to carry out cleaning of fuel filters, pipe and carburetor. 
-The filters are located on top of each fuel tap, and in the tubing below the taps (**Fig. 6a**).
+The filters are located on top of each fuel tap, and in the tubing below the taps (**Fig. 6b**).
 
-![Fig. 6a](06a.png) 
-*Fig. 6a*
+![Fig. 6b](06b.jpg) 
+*Fig. 6b*
 
 Properly clean the float chamber, and make sure the tube that carries gasoline from the chamber to 
 the jet is clean (clean with pressured air).
@@ -14,7 +14,7 @@ difficult.
 
 #### Normal adjustment
 
-Diffuser | 27mm
+Diffuser | 27 mm
 Main jet | 115/100 summer
          | 118/100 winter
 Idle jet | 50/100
