@@ -1,26 +1,38 @@
-* { box-sizing: border-box; }
-
-html, body, h1, h2, h3, h4, h5, h6, p {
-	margin: 0; 
-	padding: 0; 
+* {
+	box-sizing: border-box;
 }
 
-html, body {
-	height: 100%; 
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	height: 100%;
 	width: 100%;
-	max-width: 975px; 
+	max-width: 975px;
 	text-align: center;
 	margin: 0 auto;
 }
 
 body {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  font-size: 1em;
-  line-height: 1.5;
-  background-color: #eee;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	line-height: 1.5;
+	background-color: #eee;
 }
 
-pre, code {
+pre,
+code {
 	font-family: Consolas, Courier New, Courier, monospace;
 }
 
@@ -30,9 +42,14 @@ pre {
 	font-size: 90%;
 }
 
-h1, h2, h3, h4, h5, h6 { 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-family: Roboto Slab, Roboto, Helvetica, Arial, sans-serif;
-	font-size: 120%; 
+	font-size: 120%;
 	font-weight: 700;
 }
 
@@ -68,7 +85,7 @@ a.inconspicuous {
 	margin: 0;
 	padding: 0;
 	color: #000;
-	text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
 }
 
 .main-menu {
@@ -76,7 +93,7 @@ a.inconspicuous {
 	width: 102%;
 	margin-left: -1%;
 	background: #000;
-	box-shadow: 0 2px 3px rgba(0,0,0,0.3), 0 -2px 3px rgba(0,0,0,0.3);
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3), 0 -2px 3px rgba(0, 0, 0, 0.3);
 	border-radius: 0.5em;
 	color: #fff;
 	z-index: 2;
@@ -93,6 +110,7 @@ a.inconspicuous {
 	opacity: 0;
 	transition: all 500ms ease-in-out;
 }
+
 .main-menu.stick h1 {
 	display: block !important;
 	position: absolute;
@@ -100,6 +118,7 @@ a.inconspicuous {
 	top: 0.2em;
 	font-size: 150%;
 }
+
 .main-menu.stick.visible {
 	visibility: visible;
 	opacity: 1;
@@ -128,8 +147,8 @@ a.inconspicuous {
 	padding: 1em;
 }
 
-.main-content h1, 
-.main-content h2, 
+.main-content h1,
+.main-content h2,
 .main-content h3 {
 	margin-bottom: 0.5em;
 }
@@ -156,48 +175,73 @@ a.inconspicuous {
 	margin-top: 0.5em;
 }
 
-.main-content p, .main-content table {
+.main-content p,
+.main-content table {
 	margin-bottom: 1em;
+	width: 100%;
 }
 
-.main-content blockquote, .main-content pre {
-  background: #f9f9f9;
-  border: 1px solid #eee;
-  border-left-width: 1em;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
+.main-content table td:first-child {
+	display: flex;
 }
 
-.main-content blockquote p, .main-content blockquote dl {
+.main-content table td:first-child::after {
+	content: "";
+	flex-grow: 1;
+	background-image: radial-gradient(circle, currentcolor 1px, transparent 1.5px);
+	background-position: bottom;
+	background-size: 1em 0.9em;
+	background-repeat: space no-repeat;
+	margin: 0 0.5em;
+}
+
+.main-content table td:last-child {
+	text-align: right;
+	width: 1em;
+	white-space: nowrap;
+}
+
+.main-content blockquote,
+.main-content pre {
+	background: #f9f9f9;
+	border: 1px solid #eee;
+	border-left-width: 1em;
+	margin: 1.5em 10px;
+	padding: 0.5em 10px;
+	quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+.main-content blockquote p,
+.main-content blockquote dl {
 	margin: 0.2em 0;
 }
 
-.main-content .highlight > pre code,
-.main-content .highlight > pre pre {
+.main-content .highlight>pre code,
+.main-content .highlight>pre pre {
 	border: none;
 	padding: 0;
 }
 
-.main-content img, .main-content img + em {
-  display: block;
-  text-align: center;
-  margin: auto;
-  font-weight: bold;
+.main-content img,
+.main-content img+em {
+	display: block;
+	text-align: center;
+	margin: auto;
+	font-weight: bold;
 }
 
 .main-content div.manual-float-left {
-  float: left;
-  margin-right: 2em;
+	float: left;
+	margin-right: 2em;
 }
 
 .main-content div.manual-float-right {
-  float: right;
-  margin-left: 2em;
+	float: right;
+	margin-left: 2em;
 }
 
 .main-content table {
-  border-collapse: collapse;
+	border-collapse: collapse;
 }
 
 .main-footer {
@@ -205,7 +249,7 @@ a.inconspicuous {
 	border-radius: 0 0 0.5em 0.5em;
 	margin-bottom: 2em;
 	padding-bottom: 0.6em;
-	font-size: 80%; 
+	font-size: 80%;
 }
 
 .main-footer ul {
@@ -226,7 +270,7 @@ a.inconspicuous {
 
 	-webkit-flex-flow: row wrap;
 	justify-content: flex-start;
-  align-items: center;
+	align-items: center;
 }
 
 .main-footer .main-footer-cols .main-footer-col:not(:first-child) {
@@ -241,7 +285,7 @@ a.inconspicuous {
 .main-footer .main-footer-cols .main-footer-col.main-footer-col2 {
 	flex: 0 1 auto;
 	white-space: nowrap;
-  vertical-align: middle;
+	vertical-align: middle;
 }
 
 .main-footer .main-footer-cols .main-footer-col.main-footer-col3 {
@@ -254,11 +298,10 @@ a.inconspicuous {
 }
 
 .main-footer blockquote cite::before {
-    content: "\2014 \2009";
-} 
+	content: "\2014 \2009";
+}
 
-.gravatar 
-{
+.gravatar {
 	border: 1px solid #999;
 	border-radius: 1.5em;
 }
@@ -274,19 +317,21 @@ a.inconspicuous {
 }
 
 article.book {
-  counter-reset: h2counter h3counter;
-}
-.book h2::before {
-  content: counter(h2counter) ".\0000a0\0000a0";
-  counter-increment: h2counter;
-  counter-reset: h3counter;
-}
-.book h3::before {
-  content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
-  counter-increment: h3counter;
+	counter-reset: h2counter h3counter;
 }
 
-span.icon svg {	
+.book h2::before {
+	content: counter(h2counter) ".\0000a0\0000a0";
+	counter-increment: h2counter;
+	counter-reset: h3counter;
+}
+
+.book h3::before {
+	content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+	counter-increment: h3counter;
+}
+
+span.icon svg {
 	display: inline-block;
 	width: 1em;
 	height: 1em;
@@ -302,17 +347,18 @@ span.icon svg {
 		border-radius: 0;
 	}
 }
+
 @media (max-width: 800px) {
 	.main-menu.stick {
 		text-align: left;
 	}
+
 	.main-menu.stick h1 {
 		position: static;
 		display: inline !important;
 	}
+
 	.main-menu.stick ul {
 		display: inline;
 	}
 }
-
-
