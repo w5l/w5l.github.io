@@ -2,11 +2,6 @@
 
 In practise, three problems might occur:
 
-<div class="manual-float-right">
-  <img src="09.jpg" alt="Fig. 9" />
-  <em>Fig. 9</em>
-</div>
-
 1. The clutch snatches, engagement is abrupt and violent:
   - It can caused by on too tight springs: loosen the knurled disc (**Fig. 9**). The springs should 
     be compressed just enough to have a length of about 27.5 mm;
@@ -31,3 +26,6 @@ In practise, three problems might occur:
   - Excessive play between lever and internal control rod: adjust the free play (see above).
   - Excessive wear of the control cable: replace;
   - Dirty discs: perform the washing (see above).
+
+![Fig. 9](09.jpg) 
+*Fig. 9*
