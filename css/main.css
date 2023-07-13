@@ -25,6 +25,7 @@ body {
 }
 
 body {
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	line-height: 1.5;
 	background-color: #eee;
@@ -177,6 +178,27 @@ a.inconspicuous {
 .main-content p,
 .main-content table {
 	margin-bottom: 1em;
+	width: 100%;
+}
+
+.main-content table td:first-child {
+	display: flex;
+}
+
+.main-content table td:first-child::after {
+	content: "";
+	flex-grow: 1;
+	background-image: radial-gradient(circle, currentcolor 1px, transparent 1.5px);
+	background-position: bottom;
+	background-size: 1em 0.9em;
+	background-repeat: space no-repeat;
+	margin: 0 0.5em;
+}
+
+.main-content table td:last-child {
+	text-align: right;
+	width: 1em;
+	white-space: nowrap;
 }
 
 .main-content blockquote,
