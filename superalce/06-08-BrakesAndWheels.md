@@ -6,7 +6,7 @@ before the friction material is in contact with the drums.
 This play is adjusted by acting on the tensioner located on the right side of the fork for the front 
 brake (**Fig. 13**) and by screwing the wing nut on the tie rod for the rear brake.
 
-![Fig. 13](13.png) 
+![Fig. 13](13.jpg) 
 *Fig. 13*
 
 ### Adjustment of the hubs
@@ -18,7 +18,7 @@ screw the ring just enough to remove the excessive play; afterwards, make sure t
 freely, to make certain that the roller bearings are not stressed causing rolling resistance and 
 rapid wear of the parts. Before assembly remember to relock the nut on the ring of the hub.
 
-![Fig. 14](14.png) 
+![Fig. 14](14.jpg) 
 *Fig. 14*
 
 ### Wheel removal
@@ -28,5 +28,5 @@ the axle by undoing the left nut, then use the pipe wrench on the fixed side of 
 (**Fig. 15**) to unscrew and remove the three bolts that secure the drum brake on the wheel. After 
 that take off the wheel.
 
-![Fig. 15](15.png) 
+![Fig. 15](15.jpg) 
 *Fig. 15*

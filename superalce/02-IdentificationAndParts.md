@@ -9,8 +9,8 @@ For the perfect functioning of the vehicle, please note that any spare parts are
 exclusively with original "Moto Guzzi" parts. For ordering follow the instructions given 
 in the chapter "Identification data".
 
-![Fig. 1](01.png) 
+![Fig. 1](01.jpg) 
 *Fig. 1 - Motorcycle (flywheel side)*
 
-![Fig. 2](02.png) 
+![Fig. 2](02.jpg) 
 *Fig. 2 - Motorcycle (distribution side)*

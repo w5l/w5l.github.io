@@ -7,7 +7,7 @@ Approximately every 5000 km clean the combustion chamber, possibly grind the val
 Takes off the rockerbox from the head by releasing the oil pipe and the mounting nuts to the three 
 supporting studs (**Fig. 7**).
 
-![Fig. 7](07.png) 
+![Fig. 7](07.jpg) 
 *Fig. 7*
 
 Remove the tube covering the pushrods after loosening the nuts that hold the flange to the engine 
@@ -15,7 +15,7 @@ housing. Remove the carburetor, the exhaust pipe and the four nuts on the cylind
 (**Fig. 8**), then hit around the outside of the head with a hammer, and remove it by pulling it 
 forward.
 
-![Fig. 8](08.png) 
+![Fig. 8](08.jpg) 
 *Fig. 8*
 
 To ensure that the valves seal perfectly in the respective seats pour a bit of gasoline in the 

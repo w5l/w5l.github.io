@@ -3,7 +3,7 @@
 In practise, three problems might occur:
 
 <div class="manual-float-right">
-  <img src="09.png" alt="Fig. 9" />
+  <img src="09.jpg" alt="Fig. 9" />
   <em>Fig. 9</em>
 </div>
 
@@ -20,7 +20,7 @@ In practise, three problems might occur:
   - It can be caused by on too weak springs; tighten the knurled disc (**fig. 9**) or replace the 
     springs;
   - Lack of play between external control lever and internal control rod: set the free play play 
-    (approx. 0.2mm) by adjusting the tensioner on the clutch control cable;
+    (approx. 0.2 mm) by adjusting the tensioner on the clutch control cable;
   - Excessive oil leaks in the clutch: perform the washing (see above). If the issue 
     persists, please check the condition of the stuffing box and clean the pipe placed in the 
     crankcase discharging oil on the chain.
@@ -30,4 +30,4 @@ In practise, three problems might occur:
    gear changes. The problem may depend on:
   - Excessive play between lever and internal control rod: adjust the free play (see above).
   - Excessive wear of the control cable: replace;
-  - Dirty discs: operate the washing (see above).
+  - Dirty discs: perform the washing (see above).

@@ -60,10 +60,8 @@ gear and slowly let go the clutch lever at the same time accelerating the engine
 
 ### Use of the gearbox
 
-<div class="manual-float-right">
-  <img src="03a.png" alt="Fig. 3a" />
-  <em>Fig. 3a</em>
-</div>
+![Fig. 3b](03b.jpg) 
+*Fig. 3b*
 
 To move from lower to higher gears the clutch lever must be pulled to the bottom and simultaneously 
 close the throttle. Move the gear shift lever (avoiding violent moves) in order to shift into higher
@@ -132,11 +130,11 @@ engine turn a few times checking if the plug sparks. If it does not spark, the p
 - Spark plug is wet: let it dry;
 - Spark plug dirty: clean it with pure gasoline and toothbrush;
 - Cracked insulation: replace the plug;
-- Spark plug does not fit in: check that the distance is 0.6mm;
+- Spark plug does not fit in: check that the distance is 0.6 mm;
 - Spark plug wire: make sure it is not broken, check the wire connection. 
 
 If even with new spark plug it does not spark, check the contact breaker points: they must open 
-0.4mm and if dirty should be cleaned.
+0.4 mm and if dirty should be cleaned.
 
 Too early or late spark: Check the timing of the magnet.
 
