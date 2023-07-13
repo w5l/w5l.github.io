@@ -10,20 +10,15 @@ When setting the intake valve timing this way, the exhaust valve is also in phas
 
 NB. - This measure is to be taken on the outer edge of the flywheel (**Fig. 5b - A**).
 
-![Fig. 5b](05b.jpg) 
-*Fig. 5b - A = 55 mm, B = 30 to 31 mm*
-
 After this check, the valve play must be set as prescribed in the section entitled "**Setting valve play**".
-
-<div class="manual-float-right">
-  <img src="05.jpg" alt="Fig. 5" />
-  <em>Fig. 5</em>
-</div>
 
 When the piston is at top dead center, with valves closed and precisely at the end of the 
 compression phase the marked tooth on the crankshaft gear must sit between the marked teeth of the 
 cam shaft and the marked tooth of the latter must sit between the marked teeth on the magnet drive 
 gear (**Fig. 5**).
+
+![Fig. 5](05.jpg) 
+*Fig. 5*
 
 ### Timing of the magnet
 
@@ -33,12 +28,10 @@ the flywheel is in the advance position from the plotted arrow on the flywheel b
 
 NB. - This measure is to be taken on the outer edge of the flywheel (**Fig. 5b - B**).
 
-### Setting valve play
+![Fig. 5b](05b.jpg) 
+*Fig. 5b - A = 55 mm, B = 30 to 31 mm*
 
-<div class="manual-float-right">
-  <img src="06.jpg" alt="Fig. 6" />
-  <em>Fig. 6</em>
-</div>
+### Setting valve play
 
 This is performed on a cold engine, using key 11 mm and a screw driver. Loosen the securing nut and 
 by tightening or loosening the screw that acts on the valve stem, screwing you decrease the play and 
@@ -51,6 +44,9 @@ changes while tightening the securing nut.
 
 The adjustment must be done with the piston at top dead center with valves closed and precisely at 
 the end of the compression phase.
+
+![Fig. 6](06.jpg) 
+*Fig. 6*
 
 ### Ignition
 

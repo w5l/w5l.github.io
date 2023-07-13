@@ -230,16 +230,6 @@ a.inconspicuous {
 	font-weight: bold;
 }
 
-.main-content div.manual-float-left {
-	float: left;
-	margin-right: 2em;
-}
-
-.main-content div.manual-float-right {
-	float: right;
-	margin-left: 2em;
-}
-
 .main-content table {
 	border-collapse: collapse;
 }
