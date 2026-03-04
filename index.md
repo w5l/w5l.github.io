@@ -18,5 +18,6 @@ I am gone to play outside untill further notice.
   {% endfor %}
 </ul>
 
-* [Moto-Guzzi Superalce drivers manual](/superalce/)
-
+## Manuals
+* Moto-Guzzi Superalce
+  - [Operators manual](/superalce/operators-manual) (“Instructions for use and maintenance”)
